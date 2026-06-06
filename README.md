@@ -1,2 +1,2 @@
 # proyecto-semestral-fisica-computacional
-# ver documento avance preliminar 1
+# 05/06/26 : ver documento informe avance dos fis205
